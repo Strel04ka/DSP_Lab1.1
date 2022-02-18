@@ -8,8 +8,8 @@ int main()
 	bool And = p and q;
 	bool OR = p or q;
 	bool XOR = p xor q;
-	bool implication1 = ~p || q;
-	bool implication2 = ~q || p;
+	bool implication1 = !p || q;
+	bool implication2 = !q || p;
 	bool equivalent = implication1 && implication2;
 	cout << "\nAND: " << And << endl;
 	cout << "OR: " << OR << endl;
