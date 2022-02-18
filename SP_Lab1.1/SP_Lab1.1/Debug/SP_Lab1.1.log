@@ -1,0 +1,4 @@
+﻿  SP_Lab1.1.cpp
+C:\Users\Oleg\source\repos\SP_Lab1.1\SP_Lab1.1\SP_Lab1.1.cpp(11,22): warning C4804: '~': unsafe use of type 'bool' in operation
+C:\Users\Oleg\source\repos\SP_Lab1.1\SP_Lab1.1\SP_Lab1.1.cpp(12,22): warning C4804: '~': unsafe use of type 'bool' in operation
+  SP_Lab1.1.vcxproj -> C:\Users\Oleg\source\repos\SP_Lab1.1\Debug\SP_Lab1.1.exe
